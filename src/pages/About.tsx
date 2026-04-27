@@ -31,9 +31,13 @@ export default function About() {
             <p>
               I'm building interactive dashboards with Power BI.
             </p>
-            <button className="inline-flex items-center gap-2 px-5 py-2.5 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition">
+            <a
+              href="/Rajdeep_Singh_Resume.pdf"
+              download="Rajdeep_Singh_Resume.pdf"
+              className="inline-flex items-center justify-center gap-2 px-6 py-3 text-gray-700 dark:text-gray-300 font-medium rounded-lg border border-gray-300 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-800 transition cursor-pointer"
+            >
               <Download className="w-4 h-4" /> Download Resume
-            </button>
+            </a>
           </motion.div>
 
           <motion.div
