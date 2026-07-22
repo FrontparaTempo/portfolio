@@ -32,8 +32,8 @@ export default function About() {
               I'm building interactive dashboards with Power BI.
             </p>
             <a
-              href="/Rajdeep_Singh_Resume.pdf"
-              download="Rajdeep_Singh_Resume.pdf"
+              href="/Rajdeep_Singh.pdf"
+              download="Rajdeep_Singh.pdf"
               className="inline-flex items-center justify-center gap-2 px-6 py-3 text-gray-700 dark:text-gray-300 font-medium rounded-lg border border-gray-300 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-800 transition cursor-pointer"
             >
               <Download className="w-4 h-4" /> Download Resume
